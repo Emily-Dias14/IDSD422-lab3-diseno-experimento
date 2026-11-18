@@ -1,7 +1,7 @@
 # Plantilla de protocolo — Experimento de ubicación de producto
 
-**Equipo:** ___ · **Integrantes:** ___ · **Fecha:** 18/11/2026
-**Fork:** (pega aquí el enlace de tu fork)
+**Equipo:** ___ · **Integrantes:** Emily Dias · **Fecha:** 18/11/2026
+**Fork:** https://github.com/Emily-Dias14/IDSD422-lab3-diseno-experimento.git
 
 ---
 
